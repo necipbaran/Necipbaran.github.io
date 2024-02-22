@@ -1,16 +1,18 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
-
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: NarkoNET
+  role: Team Lead & Developer
+  duration: 2015 &mdash; Present
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: A team of 6 people is currently working on our project developed with AspNet MVC 5 c#. It was developed by me from scratch and currently includes more than 20 modules. It was developed using MSSQL Database and we use ElasticSearch as NoSQL. Our project works effectively with SignalR, Jquery, Rest Api.
+
+
+# jazznotes.io
+- project: PBSNET
+  role: Developer
+  duration: 2015 &mdash; 2018
+  # url: "#"
+  description: I carried out the integration work of all police officers in Turkey and all personnel in other service classes in the police force with the social security institution. I implemented web service integration with Ankara Metropolitan Municipality EGO bus company. I have developed many Web Services (Rest Api Json + JWT auth) within the framework of protocols for other public institutions.
+
