@@ -1,6 +1,6 @@
-# Site settings
-title: "SElam"
-description: "A resume template for Jekyll and GitHub Pages sites."
+p# Site settings
+title: "Necip BARAN"
+description: "Resume about Necip BARAN"
 
 # Build settings
 markdown: kramdown
@@ -10,20 +10,20 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Lisa M. Simpson"
-resume_title:                   "VP of Global Communications"
+resume_name:                    "Necip BARAN"
+resume_title:                   "Senior Software Developer"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "lisasimpson@youremailaddress.com"
+resume_contact_email:           "necipbaran42@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+resume_contact_telephone:       "00905536278253"
+resume_contact_address:         "Karanfil Sokak Kızılay /Ankara"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
+resume_header_contact_info:     "Karanfil Sokak Kızılay /Ankara • 00905536278253 • necipbaran42@gmail.comm"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Hello, I am Necip BARAN. I have been involved in software development processes since 2008. Software is more than a job for me, it is a way of life and an invaluable passion.When I do my job, I try to create a perfect work of art rather than writing code.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
