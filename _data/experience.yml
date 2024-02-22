@@ -1,19 +1,19 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: Presidency of Combating Narcotic Crimes
+  position: Software Development Team Leader
+  duration: Apr, 2018 &mdash; Present
+  summary: Immediately after taking office in 2018, I headed a portal development team that managed the transactions of 5000+ personnel using technologies such as Aspnet MVC, Mssql, c#, RabbitMQ, etc.Using technologies such as web services, RabbitMQ, ElasticSearch, Jquery, SignalR, Ef Core, I developed an application that integrates with BTK, manages jobs with the Hangfire scheduled task manager, and is still running.I am currently developing an application with .Net Core 8.0 on the backend, where I manage identification with IdentityServer4, and on the front end, with Vue3 Typescript, where many operations of all police dogs in Turkey are managed.
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+- company: Personnel Directorate
+  position: Software Developer
+  duration:  Jun, 2015 &mdash; Apr, 2018
+  summary: In this unit, I worked with an oracle database with more than 1200 tables. Using Aspnet Web Forms, we developed the PBSNET application, which is used by all service class personnel working in police units nationally, with 20+ personnel. My role was mostly service integrations with external public institutions. Apart from PBSNET, I also developed a reporting tool using Devexpress Winforms. 1 million pages were printed with this tool.
 
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: Sanliurfa Police Department
+  position: IT Team Leader
+  duration:   Jun, 2011  &mdash; Aug, 2015
+  summary: I developed both desktop and web-based applications at the institution I came to in 2011. I developed many solutions using Devexpress, Twain, MSSQL, C# in desktop applications.
